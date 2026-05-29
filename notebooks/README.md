@@ -1,11 +1,11 @@
 # Notebooks
 
-Place the full project notebook in this folder.
+This folder contains the main project notebook used during experimentation.
 
-Recommended file name:
+Current notebook:
 
 ```text
 thermal_fall_detection_.ipynb
 ```
 
-For a clean public portfolio repository, it is better to upload a notebook with outputs cleared if the original file is very large.
+The source files in `src/` contain the cleaned project code, while the notebook keeps the original experiment workflow and outputs.

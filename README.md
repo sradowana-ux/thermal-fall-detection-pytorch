@@ -96,6 +96,7 @@ thermal-fall-detection-pytorch/
     project_report.md
   notebooks/
     README.md
+    thermal_fall_detection_.ipynb
   requirements.txt
   .gitignore
   README.md
